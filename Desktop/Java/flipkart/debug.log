@@ -1,0 +1,5 @@
+[0531/230420.036:ERROR:file_io_win.cc(179)] CreateFile C:\Users\GAGANC~1\AppData\Local\Temp\scoped_dir6232_1424806857\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0613/153953.808:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0613/153953.855:ERROR:exception_snapshot_win.cc(98)] thread ID 13504 not found in process
+[0613/153953.824:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0613/153953.855:ERROR:exception_snapshot_win.cc(98)] thread ID 15100 not found in process

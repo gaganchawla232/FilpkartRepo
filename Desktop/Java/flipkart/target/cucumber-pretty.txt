@@ -1,0 +1,1 @@
+Feature: User login and search the item,add to the cart and make payment
